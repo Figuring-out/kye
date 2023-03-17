@@ -29,6 +29,13 @@
             {
               "client_id": "320206510852-4sqc6vdcsgi4s4mhd5d4aea5bfbj0ct6.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "320206510852-33qf2ll4e7u6gso197nlm4iiisbfl731.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.github.santhoshjke.kye"
+              }
             }
           ]
         }
